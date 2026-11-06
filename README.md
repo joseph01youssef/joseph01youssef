@@ -1,48 +1,202 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm YOUNES Youssef</h1>
+<h1 align="center">Hey 👋 I'm YOUNES Youssef</h1>
+
+<p align="center">
+  Aspiring Data Analyst | Python | SQL & NoSQL | Machine Learning
+</p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+---
 
-## 📊 GitHub Stats & Trophies
+## 📌 About Me
+
+I am an aspiring **Data Analyst** interested in working with data and transforming raw information into useful insights.
+
+I am currently developing my skills in:
+
+- Data cleaning and data preprocessing
+- Exploratory Data Analysis
+- Python for data analysis
+- SQL and NoSQL databases
+- MongoDB
+- Data visualization
+- Machine Learning and Deep Learning
+
+I am particularly interested in applying **data and artificial intelligence** to real-world problems, especially in the **healthcare sector**.
+
+---
+
+## 🚀 Projects
+
+### Clinical Data Cleaning and Analysis
+
+A project focused on preparing and analyzing clinical and healthcare data.
+
+The project includes:
+
+- Cleaning missing or incorrect data
+- Removing duplicates and detecting inconsistencies
+- Exploring clinical datasets
+- Creating visualizations
+- Preparing data for analysis
+- Extracting useful insights
+
+**Technologies:** `Python` • `Pandas` • `NumPy` • `SQL` • `Matplotlib`
+
+---
+
+### 🤖 Medical Medication Delivery Robot
+
+A project involving the development of a **medical robot designed to assist with medication delivery**.
+
+Possible areas of development include:
+
+- Medication transportation
+- Navigation inside healthcare environments
+- Obstacle detection
+- Location tracking
+- Delivery management
+- Intelligent decision-making
+
+**Technologies and concepts:** `Python` • `Artificial Intelligence` • `Robotics` • `Machine Learning`
+
+---
+
+### Data Analysis Projects
+
+Projects focused on transforming raw data into useful information and insights.
+
+Typical workflow:
+
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Data Preparation
+    ↓
+Exploratory Data Analysis
+    ↓
+Data Visualization
+    ↓
+Insights
+```
+
+**Tools:** `Python` • `Pandas` • `NumPy` • `Matplotlib`
+
+---
+
+### 🧠 Machine Learning & Deep Learning
+
+I am currently learning and developing my knowledge in:
+
+- Machine Learning
+- Data Classification
+- Predictive Models
+- Deep Learning
+- Neural Networks
+- Model Evaluation
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming & Data
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
+</p>
+
+### Data Analysis
+
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+
+### 🗄️ Databases
+
+**SQL:** MySQL • PostgreSQL • SQLite
+
+**NoSQL:** MongoDB
+
+### Machine Learning & AI
+
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Data Classification
+- Predictive Analysis
+
+---
+
+## 🌱 Currently Learning
+
+I am currently improving my skills in:
+
+- Advanced Data Analysis
+- Advanced Python
+- SQL and NoSQL databases
+- MongoDB
+- Machine Learning
+- Deep Learning
+- Healthcare Data Analysis
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseph01youssef&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="joseph01youssef's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=joseph01youssef&theme=nightowl&hide_border=true&cache_seconds=86400" alt="joseph01youssef's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseph01youssef&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=joseph01youssef&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph01youssef&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseph01youssef&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="YOUNES Youssef's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseph01youssef&theme=nightowl&radius=10" alt="joseph01youssef's Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joseph01youssef&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseph01youssef&theme=nightowl&radius=10" alt="GitHub Activity Graph" />
+</p>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+---
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+## 🎯 My Goal
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+My goal is to become a skilled **Data Analyst** and continue developing my knowledge in **Data Science and Artificial Intelligence**.
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+I am especially interested in combining:
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+**Data Analysis + Artificial Intelligence + Healthcare + Robotics**
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+to develop useful solutions for real-world problems.
+
+---
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:you@example.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -50,8 +204,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <!---->
-</div>
+---
 
-<p align="center"><sub>YOUNES Youssef · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+  
+
+<p align="center">
+  <i>Turning data into insights and ideas into intelligent solutions.</i>
+</p>
+
+<p align="center">
+  <b>YOUNES Youssef</b> · Data Analyst · AI & Deep Learning · Robotics
+</p>
