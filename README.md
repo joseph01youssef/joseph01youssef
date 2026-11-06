@@ -158,17 +158,6 @@ I am currently improving my skills in:
   <img src="https://streak-stats.demolab.com/?user=joseph01youssef&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph01youssef&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseph01youssef&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseph01youssef&theme=nightowl&radius=10" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -214,5 +203,9 @@ to develop useful solutions for real-world problems.
 </p>
 
 <p align="center">
-  <b>YOUNES Youssef</b> · Data Analyst · AI & Deep Learning · Robotics
+  <img 
+    src="https://media.discordapp.net/attachments/1540536408488284301/1568211594293411940/banner_jose.png?ex=6aeefe5c&is=6aedacdc&hm=c3ed34076a9808e245579c7be5afeed94e1d615eaab565121ac0c5b4c9428cca&=&format=webp&quality=lossless&width=2048&height=771"
+    alt="YOUNES Youssef Banner"
+    width="100%"
+  />
 </p>
